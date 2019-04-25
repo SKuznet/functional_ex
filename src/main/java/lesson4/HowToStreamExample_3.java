@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class HowToStreamExample3 {
+public class HowToStreamExample_3 {
     public static void main(String[] args) {
         // Java Stream API offers two type of methods:
         // 1. Конвейерные — возвращают другой stream, то есть работают как builder,
